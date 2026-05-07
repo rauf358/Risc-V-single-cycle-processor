@@ -1,0 +1,23 @@
+module alu(
+input[4:0]a,b,
+input[2:0]sel,
+output[4:0]c,
+);
+
+case(sel);
+   2'b00: begin
+         assign c=a+b 
+         end
+
+   2'b01: begin
+         assign c=a-b 
+         end
+
+   2'b10: begin
+         assign c=a*b 
+         end
+
+   2'b11: begin
+         assign c=a/b 
+         end
+endmodule

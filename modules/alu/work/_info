@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Projects/Embedded
+valu
+!s110 1760635068
+!i10b 1
+!s100 MKCiF?=D=6]8J9aWNG5_d0
+IOTbSFIa6^`eVbY`el5_WQ2
+VDg1SIo80bB@j0V0VzS_@n1
+dD:/Projects/Embedded/riscv-processor-verilog/modules/alu
+w1760635065
+8D:/Projects/Embedded/riscv-processor-verilog/modules/alu/alu_code.v
+FD:/Projects/Embedded/riscv-processor-verilog/modules/alu/alu_code.v
+L0 1
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1760635068.000000
+!s107 D:/Projects/Embedded/riscv-processor-verilog/modules/alu/alu_code.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Projects/Embedded/riscv-processor-verilog/modules/alu/alu_code.v|
+!i113 1
+o-work work
+tCvgOpt 0
